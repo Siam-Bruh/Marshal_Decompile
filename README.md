@@ -17,14 +17,15 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Siam-Bruh/SiamXENC.git
+git clone https://github.com/Siam-Bruh/Marshal_Decompile.git
 ```
 ```
-cd SiamXENC
+cd Marshal_Decompile
 ```
 ```
 python Run.py
 ```
+
 
 ---
 ## 🚀 Usage
