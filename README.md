@@ -2,7 +2,6 @@
 # Marshal Decompile Tools
 
 **Marshal Decompile** is a toolset that helps recover readable Python source code from Python marshal-encoded files.  
-This single-file README is ready to copy into your repository.
 
 > ⚠️ For educational and personal use only. Unauthorized reverse-engineering of other people's code may be illegal — use responsibly.
 
